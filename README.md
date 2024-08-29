@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/f0ff646b-fdb3-4865-80e4-077b19c7eabc"/>
 
 <!--
 **NajuBarbosa/NajuBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
