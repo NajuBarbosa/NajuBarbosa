@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F47AC2&height=100&section=header&width=100%"/>
+</p>
+
 # Olá, me chamo Naju ! 
 
 <p align="center">
@@ -34,6 +38,3 @@ Tenho mais de dois anos de experiência como programadora, desenvolvendo sistema
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F47AC2&height=100&section=footer&width=100%"/>
 </p>
 
-<p align="center">
-  Desenvolvido por <strong>@NajuBarbosa</strong>
-</p>
