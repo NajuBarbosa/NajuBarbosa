@@ -2,14 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F47AC2&height=100&section=header&width=100%"/>
 </p>
 
-<h1 align="center">
-    Hi, I'm Naju! 👋
-</h1>
+<h1 align="center">Hi, I'm Naju! 👋</h1>
 
 <br>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F47AC2&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+%E2%9C%A8;I'm+from+S%C3%A3o+Paulo%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I'm+a+Digital+Games+Developer+%F0%9F%8E%AE;Always+excited+about+programming+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F47AC2&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+%E2%9C%A8;I'm+from+S%C3%A3o+Paulo%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I'm+a+Digital+Games+Developer+%F0%9F%8E%AE;Always+excited+about+programming+%F0%9F%92%BB" alt="Typing SVG" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/NajuBarbosa/NajuBarbosa/main/Gif_Kwai.gif" width="200px" alt="Naju Avatar" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠️ Technologies and Tools
 <br>
