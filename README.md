@@ -23,9 +23,9 @@
 ## 📫 Let's Connect
 <br>
 <p align="center">
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&labelColor=%23FF70A6CC&color=%23FF70A6CC" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&logoSize=500&labelColor=%23FF70A6CC&color=%23FF70A6CC" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&labelColor=%23FF70A6CC&color=%23FF70A6CC" target="_blank"></a>   
+  <a href="https://x.com/NajuGameDev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&labelColor=000000&color=000000&logoColor=FF70A6" target="_blank"></a>
+  <a href="mailto:contato.najubarbosa58@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF70A6&labelColor=000000&color=000000" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-julia-barbosa-75b6031b6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&labelColor=000000&color=000000&logoColor=FF70A6" target="_blank"></a>   
 </p>
 <br>
 
