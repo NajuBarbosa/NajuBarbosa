@@ -22,11 +22,10 @@
 ## 📫 Let's Connect
 <br>
 <p align="center">
-  <a href="https://x.com/NajuGameDev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-F47AC2?style=for-the-badge&logo=x&labelColor=F47AC2&color=FFFFFF&logoColor=FFFFFF" target="_blank"></a>
-  <a href="mailto:contato.najubarbosa58@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-F47AC2?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=F47AC2&color=FFFFFF" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-julia-barbosa-75b6031b6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-F47AC2?style=for-the-badge&logo=LinkedIn&labelColor=F47AC2&color=FFFFFF&logoColor=FFFFFF" target="_blank"></a>   
+  <a href="https://x.com/NajuGameDev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&labelColor=000000&color=000000&logoColor=F47AC2" target="_blank"></a>
+  <a href="mailto:contato.najubarbosa58@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=F47AC2&labelColor=000000&color=000000" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-julia-barbosa-75b6031b6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&labelColor=000000&color=000000&logoColor=F47AC2" target="_blank"></a>   
 </p>
-
 <details>  
   <summary>
       <samp>
