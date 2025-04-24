@@ -5,7 +5,7 @@
 # Hi, I'm Naju! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F47AC2&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+%E2%9C%A8;I'm+a+Digital+Games+Developer+%F0%9F%8E%AE;Passionate+about+Programming+and+Game+Design+%F0%9F%94%A5;I+also+love+venturing+into+web+development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F47AC2&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+%E2%9C%A8;I'm+from+S%C3%A3o+Paulo%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I'm+a+Digital+Games+Developer+%F0%9F%8E%AE;Always+excited+about+programming+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ## 🛠️ Technologies and Tools
@@ -15,15 +15,7 @@
   </a>
 </p>
 
-## 🎮 About Me
-
-- ### 🎓 Education
-I have a degree in Digital Games, with specializations in Artificial Intelligence and Game Development.
-
-- ### 💼 Experience
-I have over two years of experience as a developer, working on systems, mechanics, and interfaces focused on performance, usability, and good coding practices.
-
-## 📫 Get in Touch
+## 📫 Let's Connect
 
 <p align="center">
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&labelColor=%23FF70A6CC&color=%23FF70A6CC" target="_blank"></a>
