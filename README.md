@@ -22,7 +22,37 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&logoSize=500&labelColor=%23FF70A6CC&color=%23FF70A6CC" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&labelColor=%23FF70A6CC&color=%23FF70A6CC" target="_blank"></a>   
 </p>
+<br>
+
+<details >  
+  <summary>
+      <samp>
+        <b>Github Stats</b>
+      </samp>
+  </summary>
+  
+  <br>
+
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=NajuBarbosa&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajuBarbosa&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+  />
+  <br>
+  
+ </details> 
+ 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F47AC2&height=100&section=footer&width=100%"/>
 </p>
+
+
