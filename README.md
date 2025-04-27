@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F47AC2&height=100&section=header&width=100%"/>
 </p>
 
-<h1 align="center">Nic to meet you, I'm Naju 🌸</h1>
+<h1 align="center">Nice to meet you, I'm Naju 🌸</h1>
 
 <br>
 
